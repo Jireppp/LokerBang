@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "60862148",
+        "description": "PT Nutech Integrasi"
+      },
+      "companyName": "Nutech Integrasi",
+      "id": "95720018",
+      "listingDate": "2026-11-05T08:31:23Z",
+      "listingDateDisplay": "6 hari yang lalu",
+      "locations": [
+        {
+          "label": "Jakarta Selatan, Jakarta Raya",
+          "countryCode": "ID"
+        }
+      ],
+      "roleId": "systems-analyst",
+      "teaser": "Analyze client needs, Analyze the proposed solutions and timelines to ensure they can be executed with the available resources.",
+      "title": "System Analyst & Design",
+      "workTypes": ["Full time"]
+    },
+    {
+      "advertiser": {
+        "id": "60880644",
+        "description": "PT IoT Nusantara"
+      },
+      "id": "95720099",
+      "listingDate": "",
+      "listingDateDisplay": "2 hari yang lalu",
+      "locations": [
+        {
+          "label": "Cikarang, Bekasi",
+          "countryCode": "ID"
+        }
+      ],
+      "teaser": "Fresh Graduate welcome to apply for embedded and IoT development.",
+      "title": "IoT Engineer",
+      "workTypes": ["Full time"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*service_account*.json
+*credentials*.json
+
+# Logs & Runtime
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.tsbuildinfo
+.npm
+
+# Agent & Harness caches
+.superpowers/
+.agents/
+.hallmark/
+.opencode/
+skills-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
